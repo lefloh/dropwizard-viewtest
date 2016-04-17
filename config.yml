@@ -1,0 +1,5 @@
+views:
+  .mustache:
+    cache: false
+  .ftl:
+    template_update_delay: 1 # seconds
